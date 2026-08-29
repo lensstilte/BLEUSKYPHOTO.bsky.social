@@ -60,7 +60,7 @@ LIJSTEN = {
 
 HASHTAGS = [
     "#bleuskyphoto",
-    "",
+    "#sexypinupstickers",
     "",
 ]
 
